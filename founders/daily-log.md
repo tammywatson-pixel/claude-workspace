@@ -1,92 +1,81 @@
-# Daily Work Log
+# Founder Daily Log
 
 _ElevIQ Foundation & STC Innovations_
 
-A running record of daily work, progress, conversations, and decisions.
-Add a new entry each day — newest at the top.
+This file tracks daily work, conversations, and progress.
+Add new entries at the top — newest first.
 
 ---
 
-## 2026-03-13 — Friday
+## Daily Entry Template
 
-### ElevIQ Foundation
+```
+Date:
 
-**Priorities today:**
+Key Work Completed:
 -
 
-**Work completed:**
+Important Conversations:
 -
 
-**Conversations:**
+Documents Created or Updated:
 -
 
-**Decisions made:**
+Key Insights or Decisions:
 -
+
+Next Actions:
+-
+
+Follow Ups Needed:
+-
+```
 
 ---
 
-### STC Innovations
+## March 13, 2026
 
-**Priorities today:**
+Key Work Completed:
+- Populated ElevIQ relationship map with key contacts across university, workforce, and technology partners
+- Created founders/daily-log.md to track daily work
+
+Important Conversations:
 -
 
-**Work completed:**
+Documents Created or Updated:
+- memory/people.md
+- founders/daily-log.md
+
+Key Insights or Decisions:
 -
 
-**Conversations:**
+Next Actions:
 -
 
-**Decisions made:**
--
-
----
-
-**Carry-forward / Next actions:**
-- [ ]
-
----
-
-<!-- ============================================================
-     DAILY ENTRY TEMPLATE — copy and paste above the last entry
-     ============================================================
-
-## YYYY-MM-DD — Weekday
-
-### ElevIQ Foundation
-
-**Priorities today:**
--
-
-**Work completed:**
--
-
-**Conversations:**
--
-
-**Decisions made:**
+Follow Ups Needed:
 -
 
 ---
 
-### STC Innovations
+## March 12, 2026
 
-**Priorities today:**
+Key Work Completed:
+- Created ElevIQ workspace structure in Claude
+- Added ElevIQ mission and strategy knowledge file
+
+Important Conversations:
+- Strategy discussion about university pilots
+
+Documents Created or Updated:
+- memory/eleviq.md
+- founders/daily-log.md
+
+Key Insights or Decisions:
+- ElevIQ will initially prioritize universities and workforce organizations for pilots.
+
+Next Actions:
+- Add pilot partners to workspace
+- Develop pilot tracking file
+
+Follow Ups Needed:
 -
-
-**Work completed:**
--
-
-**Conversations:**
--
-
-**Decisions made:**
--
-
----
-
-**Carry-forward / Next actions:**
-- [ ]
-
----
-
--->
