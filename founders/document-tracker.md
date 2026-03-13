@@ -16,6 +16,7 @@ This file tracks important documents that should be saved or organized.
 | Grant Proposal Templates | Document | ElevIQ Foundation | founders/eleviq/grants/ | Draft | For workforce grants |
 | Partner Outreach Deck | Slides | STC Innovations | TBD | Needed | For university conversations |
 | ElevIQ Knowledge File | Markdown | ElevIQ / STC | memory/eleviq.md | Active | Mission, pilots, partners, strategy |
+| Capability Alignment Model | Markdown | ElevIQ / STC | memory/capability-alignment-model.md | Active | Full methodology: scan, insights, pathways, advisor console, talent intelligence |
 | People Directory | Markdown | ElevIQ / STC | memory/people.md | Active | Key contacts and relationships |
 | Pilot Tracker | Markdown | ElevIQ | founders/eleviq/pilots/pilot-tracker.md | Active | All pilot orgs and status |
 | Daily Work Log | Markdown | ElevIQ / STC | founders/daily-log.md | Active | Running daily log |

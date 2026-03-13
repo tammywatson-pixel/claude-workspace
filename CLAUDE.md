@@ -11,6 +11,7 @@ At the start of every session, do the following automatically:
    - `founders/daily-log.md`
    - `memory/eleviq.md`
    - `memory/people.md`
+   - `memory/capability-alignment-model.md`
 
 2. Display a session briefing in this format:
 
@@ -55,3 +56,5 @@ Then commit and push all changes to the current branch.
 - Always keep `memory/eleviq.md` and `memory/people.md` up to date when new information is shared.
 - When new pilots, partners, or people are mentioned, update the relevant tracking files.
 - All work should be committed and pushed to the active branch after meaningful changes.
+- When helping design pilots, proposals, or advisor workflows for ElevIQ, always reference
+  `memory/capability-alignment-model.md` to ensure work is grounded in the methodology.
