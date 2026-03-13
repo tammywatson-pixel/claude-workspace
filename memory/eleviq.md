@@ -63,11 +63,15 @@ ElevIQ operates through two connected organizations:
 
 ## Pilots
 
-> _Add pilot details as programs are initiated or completed._
+> _Update status, start dates, and notes as programs progress._
 
 | Pilot | Organization | Type | Status | Start | Notes |
 |-------|-------------|------|--------|-------|-------|
-| TBD   | TBD         | University / Workforce / Community | Planning | — | — |
+| UNC Charlotte | UNC Charlotte | University | TBD | — | — |
+| Kittrell Job Corps | Kittrell Job Corps | Workforce / Community | TBD | — | — |
+| North Wake College and Career Academy | North Wake College and Career Academy | College & Career / K-12 | TBD | — | — |
+| NCWorks | NCWorks | Workforce Development | TBD | — | — |
+| Kerr-Tar Workforce Development Board | Kerr-Tar WDB | Workforce Development | TBD | — | — |
 
 ---
 
@@ -78,7 +82,11 @@ ElevIQ operates through two connected organizations:
 | Partner | Type | Status | Focus Area | Notes |
 |---------|------|--------|------------|-------|
 | MayaMaya | Technology (platform) | Active | Core platform provider | White-label agreement |
-| TBD | University / Workforce / Nonprofit | — | — | — |
+| UNC Charlotte | University | TBD | Higher education pilot | — |
+| Kittrell Job Corps | Workforce / Community | TBD | Underserved communities, career pathways | — |
+| North Wake College and Career Academy | College & Career / K-12 | TBD | Career discovery, early pathway alignment | — |
+| NCWorks | Workforce Development | TBD | Statewide workforce system | — |
+| Kerr-Tar Workforce Development Board | Workforce Development | TBD | Regional workforce board | — |
 
 ---
 
