@@ -12,6 +12,7 @@ At the start of every session, do the following automatically:
    - `memory/eleviq.md`
    - `memory/people.md`
    - `memory/capability-alignment-model.md`
+   - `memory/workforce-alignment-map.md`
 
 2. Display a session briefing in this format:
 
