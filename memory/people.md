@@ -7,11 +7,12 @@ partners, pilots, funders, advisors, and collaborators.
 
 ---
 
-## Internal Team
+## ElevIQ Leadership
 
 | Name | Role | Organization | Contact | Notes |
 |------|------|-------------|---------|-------|
-|      |      | ElevIQ Foundation / STC Innovations | | |
+| Tammy Watson | Founder | ElevIQ Foundation & STC Innovations | | |
+| Cecil Strickland | Chair / Strategic Partner | ElevIQ Foundation & STC Innovations | | |
 
 ---
 
@@ -19,7 +20,9 @@ partners, pilots, funders, advisors, and collaborators.
 
 | Name | Title | Organization | Contact | Relationship | Notes |
 |------|-------|-------------|---------|-------------|-------|
-|      |       | UNC Charlotte | | Pilot contact | |
+| Mark | Advisor / Pilot Partner | UNC Charlotte | | Advisor & pilot partner | |
+| Jay Skipworth | Faculty Partner | UNC Charlotte | | Faculty partner | |
+| Bojan Cukic | Dean | UNC Charlotte | | Dean-level sponsor | |
 
 ---
 
@@ -27,9 +30,8 @@ partners, pilots, funders, advisors, and collaborators.
 
 | Name | Title | Organization | Contact | Relationship | Notes |
 |------|-------|-------------|---------|-------------|-------|
-|      |       | Kittrell Job Corps | | Pilot contact | |
-|      |       | NCWorks | | Workforce partner | |
-|      |       | Kerr-Tar Workforce Development Board | | Workforce partner | |
+| David Thigpen | — | Kittrell Job Corps | | Pilot contact | |
+| Sandra Wilkerson | — | Kerr-Tar Workforce Development Board | | Workforce partner | |
 
 ---
 
@@ -45,7 +47,7 @@ partners, pilots, funders, advisors, and collaborators.
 
 | Name | Title | Organization | Contact | Relationship | Notes |
 |------|-------|-------------|---------|-------------|-------|
-|      |       | MayaMaya | | Platform provider | White-label agreement |
+| Vishwa Karthik | CEO | MayaMaya | | Platform provider | White-label agreement |
 
 ---
 
