@@ -46,6 +46,20 @@ cd claude-workspace
 
 Open the project folder in Claude Code and you're ready to go. The `CLAUDE.md` file will be picked up automatically to guide Claude's behavior.
 
+## Try It Out
+
+The included `scripts/hello.sh` script is a quick way to confirm everything is working. Open your Linux terminal, make sure you're in the project folder, and run:
+
+```bash
+chmod +x scripts/hello.sh
+./scripts/hello.sh
+```
+
+- `chmod +x` makes the script executable (you only need to do this once).
+- `./scripts/hello.sh` runs it.
+
+You should see a friendly greeting along with your username, shell, date, and current folder. If you see that output, your environment is set up correctly.
+
 ## Next Steps
 
 - **Add your first script** — Create a small shell script in `scripts/` to try things out.
