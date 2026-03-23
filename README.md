@@ -60,6 +60,20 @@ chmod +x scripts/hello.sh
 
 You should see a friendly greeting along with your username, shell, date, and current folder. If you see that output, your environment is set up correctly.
 
+## Source Code
+
+The `src/` folder contains your Python code. The first file is `src/hello.py` — a simple script that defines a `greet()` function and prints "Hello, World!" when you run it.
+
+```bash
+python3 src/hello.py
+```
+
+You should see:
+
+```
+Hello, World!
+```
+
 ## Next Steps
 
 - **Add your first script** — Create a small shell script in `scripts/` to try things out.
